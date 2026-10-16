@@ -122,6 +122,7 @@ Advice and guidebook for thriving and surviving Ph.D. and graduate school. But f
 
 * [Jonathan Birch: Tips for Giving Job Talks](https://twitter.com/birchlse/status/1491006458993209352)
 * [Jeannette M. Wing: Tips on the Interview Process](https://www.cs.cmu.edu/afs/cs/usr/wing/www/talks/tips.pdf)
+* [Light Tracer: Will a Laser Pointer Show Up in a Screen Share?](https://light-tracer.com/laser-pointer-screen-share-zoom-teams/) — A pre-talk checklist for checking pointer marks from an attendee’s view in the actual sharing mode, after slide changes and in any permitted test recording (retailer-published; AI-assisted).
 
 ## Post PhD Advice
 
